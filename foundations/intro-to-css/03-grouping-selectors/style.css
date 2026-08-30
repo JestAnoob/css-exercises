@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.firstbuttion,.secondbuttion{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Romen",sans-serif;
+}
+.firstbuttion{
+    color:white;
+    background-color: black;
+}
+.secondbuttion{
+    background-color:yellow;
+}
