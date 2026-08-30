@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd{
+    background-color: #ec95b8;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+.classtoselect{
+    font-size: 24px;
+}
+#first-id{
+    font-size: 36px;
+    color:blue;
+}
+#second-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
